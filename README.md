@@ -1,0 +1,2 @@
+# dolgok
+egyelőre gyakorlok
